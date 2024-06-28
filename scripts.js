@@ -10,6 +10,6 @@ document.getElementById('contact-form').addEventListener('submit', function(even
         alert('Please fill in all fields.');
     } else {
         alert('Thank you for your message!');
-        // Here you can add code to actually send the form data, e.g., via AJAX
+        
     }
 });
